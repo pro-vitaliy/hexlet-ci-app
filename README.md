@@ -1,7 +1,7 @@
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
-
+[![Actions Status](https://github.com/pro-vitaliy/hexlet-ci-app/actions/workflows/my-check.yml/badge.svg)](https://github.com/pro-vitaliy/hexlet-ci-app/actions)
 ## System requirements
 
 * NodeJS >= 18
